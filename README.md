@@ -1,2 +1,2 @@
-# hello-world
+# packages 
 test_my_repository
